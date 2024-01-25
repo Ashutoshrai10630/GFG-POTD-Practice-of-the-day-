@@ -6,17 +6,17 @@
 </head>
 
 <body>
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/geek.png" alt="Banner">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/geek.png" alt="Banner" width="1000" height="200">
 
-    <h1 align="center">GFG-POTD: Practice of the Day</h1>
-    is the above line correct?
+<h1 align="center">GFG-POTD: Practice of the Day</h1>
+   
 
 
-    <p>Welcome to GFG-POTD, a comprehensive repository where you can find solutions to all the daily problems posted on
+<p>Welcome to GFG-POTD, a comprehensive repository where you can find solutions to all the daily problems posted on
         Geeks For Geeks. This repository is perfect for those who are looking to enhance their problem-solving skills
         and master various programming concepts.</p>
 
-    <h2>🚀 Features</h2>
+<h2>🚀 Features</h2>
     <ul>
         <li>Daily updated solutions</li>
         <li>Clear and concise code with comments</li>
@@ -51,4 +51,4 @@
     </ul>
 </body>
 
-</html>
+</html>                                                                                                
