@@ -6,7 +6,7 @@
 <body>
     <h1>GFG-POTD: Practice of the Day</h1>
     <p>Welcome to GFG-POTD, a comprehensive repository where you can find solutions to all the daily problems posted on Geeks For Geeks. This repository is perfect for those who are looking to enhance their problem-solving skills and master various programming concepts.</p>
-    <img src="[[https://your-banner-image-link](https://user-images.githubusercontent.com/49322948/150188390-f665bf99-b9f5-45c6-a200-b3faba9e2aa7.png](https://media.geeksforgeeks.org/wp-content/uploads/geek.png))" alt="Banner">
+   ![Banner](https://media.geeksforgeeks.org/wp-content/uploads/geek.png)
     <h2>🚀 Features</h2>
     <ul>
         <li>Daily updated solutions</li>
