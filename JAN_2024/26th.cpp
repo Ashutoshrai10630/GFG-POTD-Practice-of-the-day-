@@ -1,3 +1,5 @@
+//PLEASE GIVE STAR IF YOU LIKE THE CODE 
+
 class Solution
 {
     public:
